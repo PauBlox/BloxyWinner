@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h3>Bloxluck Winner</h3>
+  <h3>Bloxy Winner</h3>
 </div>
 
 <p align="center">
